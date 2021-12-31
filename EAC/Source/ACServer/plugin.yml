@@ -1,0 +1,4 @@
+name: ACServer
+author: Holia
+version: beta0.1
+main: fr.empire_ac.eac.acserver.Main
