@@ -17,5 +17,5 @@
 | Name | Version | Licence | Date |
 |------|---------|---------|------|
 | ACServer | beta0.1 | GPLv3 | 28/12/21 |
-| Coda | pre-alpha | GPLv3 | --/--/-- |
-|      |         |         |      |
+| MinePlus Coda | pre-alpha | GPLv3 | --/--/-- |
+| Enda | pre-alpha | GPLv3 | --/--/-- |
