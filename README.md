@@ -1,8 +1,8 @@
 <h1></h1>
 
 <div align="center">
-  <h1>EAC</h1>
   <br>
+  <h1>EAC</h1>
 </div>
 
 <!-- README.md by Holia -->
