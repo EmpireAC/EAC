@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>EAC</h2>
+  <h1>EAC</h1>
 </div>
 
 <!-- README.md by Holia -->
