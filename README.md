@@ -1,7 +1,5 @@
-<h1></h1>
-
 <div align="center">
-  <h1>EAC<br></h1>
+  <h1>EAC</h1>
 </div>
 
 <!-- README.md by Holia -->
@@ -13,3 +11,4 @@
   <img src="https://img.shields.io/badge/Discord-ef3NBraXQv-blue">
   <h1></h1>
 </div>
+
