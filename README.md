@@ -1,5 +1,3 @@
-****
-<div align="center">
-  <h1>EAC</h1>
-</div>
-****
+|| <!-- empty table header -->
+|:--:| <!-- table header/body separator with center formatting -->
+| I'm centered! | <!-- cell gets column's alignment -->
