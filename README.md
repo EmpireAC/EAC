@@ -18,4 +18,4 @@
 |------|---------|---------|------|
 | ACServer | beta0.1 | GPLv3 | 28/12/21 |
 | MinePlus Coda | pre-alpha | GPLv3 | --/--/-- |
-| Enda | pre-alpha | GPLv3 | --/--/-- |
+| MineCoda | pre-alpha | GPLv3 | --/--/-- |
