@@ -8,7 +8,7 @@ import org.bukkit.event.player.PlayerJoinEvent;
 
 /*
  * 
- * ACServer version beta0.1.1
+ * ACServer version beta0.1
  * (C) 2021 EmpireAC
  * (C) 2021 Holia
  * 
