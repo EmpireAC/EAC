@@ -7,6 +7,7 @@
 <div align="center">
   <br>
   <img src="https://img.shields.io/badge/EAC-beta0.1-red">
-  <img src="https://img.shields.io/badge/licence-GPLv2-green">
+  <img src="https://img.shields.io/badge/licence-GPLv3-green">
+  <img src="https://img.shields.io/badge/Discord-ef3NBraXQv-green">
   <h1></h1>
 </div>
