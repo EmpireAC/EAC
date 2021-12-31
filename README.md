@@ -17,5 +17,11 @@
 | Name | Version | Licence | Date |
 |------|---------|---------|------|
 | ACServer | beta0.1 | GPLv3 | 28/12/21 |
-| MinePlus Coda | pre-alpha | GPLv3 | --/--/-- |
+| CodaTools | pre-alpha | GPLv3 | --/--/-- |
 | MineCoda | pre-alpha | GPLv3 | --/--/-- |
+
+- FAQ :
+
+##### Can I use on of EAC plugins on my Minecraft server ?
+
+To use our plugins contact the staff of EmpireAC (Discord Server in the top).
