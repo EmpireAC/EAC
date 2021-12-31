@@ -22,11 +22,11 @@
 
 - FAQ :
 
-##### Can I use on of EAC plugins on my Minecraft server ?
+##### - Can I use on of EAC plugins on my Minecraft server ?
 
 To use our plugins contact the staff of EmpireAC (Discord Server in the top).
 
 
-##### EAC use Spigot or Bukkit or Forge ?
+##### - EAC use Spigot or Bukkit or Forge ?
 
 EAC use Spigot 1.8.8.
