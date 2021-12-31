@@ -1,5 +1,5 @@
 -----
 
-<p align="center">
+<div align="center">
   <h1>EAC</h1>
-</p>
+</div>
