@@ -2,6 +2,7 @@
 
 <div align="center">
   <h1>EAC</h1>
+  <br>
 </div>
 
 <!-- README.md by Holia -->
