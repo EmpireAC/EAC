@@ -12,4 +12,4 @@
   <h1></h1>
 </div>
 
-### ? - What't that ?
+EAC has got all EmpireAC plugin source code here ! 
