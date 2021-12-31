@@ -1,7 +1,6 @@
 <h1></h1>
 
 <div align="center">
-  <br>
   <h1>EAC</h1>
 </div>
 
