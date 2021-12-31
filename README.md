@@ -6,4 +6,5 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/EAC-beta0.1-red">
+  <hr>
 </div>
