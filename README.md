@@ -13,6 +13,8 @@
 </div>
 
 - List of All EAC Plugin : 
-
-|--------------|-------------|----------|
-| Name | Version | Licence |
+| Name | Version | Licence | Date |
+|------|---------|---------|------|
+|      |         |         |      |
+|      |         |         |      |
+|      |         |         |      |
